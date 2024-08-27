@@ -10,8 +10,6 @@ public class Fruta {
 
     private int valor;
 
-    // não sei oq estou fazendo da minha vida estudando isso
-
     public String getTipo() {
         return tipo;
     }
